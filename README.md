@@ -19,3 +19,13 @@ Disclaimer
 All similarities with living people and projects is unintentional,
 all code is and show-cased approaches are fictitious. No animals
 were harmed in the production of this code repository.
+
+Public examples
+---------------
+
+Some repositories that showcase issues and/or solution approaches.
+
+- Matrix dependencies: [imperative](
+    https://gitlab.com/StanfordLegion/legion/blob/master/.gitlab-ci.yml) vs [declarative](
+    https://gitlab.com/StanfordLegion/legion/blob/master/.travis.yml) ([author's explanation](
+    https://gitlab.com/gitlab-org/gitlab/issues/15356#note_272255100))
