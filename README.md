@@ -25,7 +25,10 @@ Public examples
 
 Some repositories that showcase issues and/or solution approaches.
 
-- Matrix dependencies: [imperative](
+- Matrix dependencies that expand:
+  - [imperative](
     https://gitlab.com/StanfordLegion/legion/blob/master/.gitlab-ci.yml) vs [declarative](
     https://gitlab.com/StanfordLegion/legion/blob/master/.travis.yml) ([author's explanation](
     https://gitlab.com/gitlab-org/gitlab/issues/15356#note_272255100))
+- Pipelines you can't run locally:
+  - [Symfony](https://github.com/symfony/symfony/blob/master/.travis.yml)
